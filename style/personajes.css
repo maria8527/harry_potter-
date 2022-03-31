@@ -1,0 +1,98 @@
+@import url('http://fonts.cdnfonts.com/css/harry-potter');
+*{
+    text-align: center;
+}
+body{
+
+
+    background-image: url(https://www.xtrafondos.com/descargar.php?id=3547&resolucion=2560x1440);
+    background-size: cover;
+    background-repeat: repeat-y;
+    margin-top: 10%;
+
+    /* height: 600px;
+    background-image: url(https://www.xtrafondos.com/descargar.php?id=3547&resolucion=2560x1440);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center; */
+    
+}
+
+.info{
+    margin-top: -200px ;
+    display:flex;
+    margin-left: 460px ;
+    /* margin-right: auto; */
+    background-color: #f1d793;
+    width: 30%;
+    height: 500px;
+    flex-direction:column;
+    border-radius: 30px;
+}
+
+.imagenperso{
+    display:flex;
+    height: 300px;
+    width: auto;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+
+
+
+p{
+    text-align: center;
+}
+
+button{
+    text-decoration:none;
+    font-weight: 200;
+    font-size: 20px;
+    color:black;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:40px;
+    padding-right:40px;
+    background-color:yellow;
+    border-color: yellow;
+    border-style: solid;
+    border-radius:35px;
+    width: 20%;
+    text-align: center;
+}
+
+.nombre{
+    font-family: 'Harry Potter', sans-serif;
+    text-align: center;
+
+}
+
+.casa{
+    font-family: 'Harry Potter', sans-serif;
+    text-align: center;
+}
+
+.logobtn{
+    text-align: center;
+    margin-top: 0%;
+    
+   
+   
+    
+   
+}
+
+#btn{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+
+}
+
+
+
+
